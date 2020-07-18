@@ -8,7 +8,7 @@ Start a discussion on the [repository issue tracker](https://github.com/dotnet/c
 ## Bugs and feature requests?
 For non-security related bugs, log a new issue on the [repository issue tracker](https://github.com/dotnet/crank/issues).
 
-## Reporting security issues and bugs
+## Reporting security issues and bugssssss
 
 Security issues and bugs should be reported privately, via email, to the Microsoft Security Response Center (MSRC)  secure@microsoft.com. You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Further information, including the MSRC PGP key, can be found in the [Security TechCenter](https://technet.microsoft.com/en-us/security/ff852094.aspx).
 
